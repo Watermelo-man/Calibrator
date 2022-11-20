@@ -1,0 +1,4 @@
+﻿  Calibrator_ADC.cpp
+C:\Users\Alexander\source\repos\Calibrator\Calibrator\Calibrator_ADC.cpp(45,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Alexander\source\repos\Calibrator\Calibrator\Calibrator_ADC.cpp(60,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  Calibrator.vcxproj -> C:\Users\Alexander\source\repos\Calibrator\Debug\Calibrator.exe
